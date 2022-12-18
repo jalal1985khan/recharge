@@ -42,7 +42,7 @@
             <div class="banner__content">
                 <div class="title type-wrap">
                     <div id=typed-strings>
-                        <h2>Mobile Recharge | DTH Recharge | Bill Payment | DMT</h2>
+                        <h2>123456Mobile Recharge | DTH Recharge | Bill Payment | DMT</h2>
                     </div>
                     <h2 id="typed_home"></h2>
                 </div>
