@@ -1,3 +1,37 @@
+<?php 
+
+session_start();
+	
+error_reporting(0);
+include("../includes/config.php");
+// $_SESSION["status"]=1;
+if(isset($_POST['login'])){
+
+    $mobile= $_POST['mobile'];
+    $password = md5($_POST['password']);
+    
+    
+    if($con === false){
+  	 die("ERROR: Could not connect. " . mysqli_connect_error());
+     }
+     //  $query = "UPDATE `admin` SET `MOBILE`='$mobile', `PASSWORD`='$password' WHERE `ID`='1'";
+    $query = "select * FROM admin WHERE MOBILE = '".$mobile. "' AND PASSWORD = '".$password. "'";
+    
+    $result = mysqli_query($con, $query);
+    $row=mysqli_num_rows($result);
+    if($row!=0){
+		$admin = mysqli_fetch_array($result);
+		$admin_id = $admin['ID'];
+		$_SESSION["status"] = $admin_id;
+
+        echo "success";
+        //header("location:index.php");
+	}else{
+	    echo "<script>alert('Login Failed')</script>";
+	}
+}
+
+?> 
 <!DOCTYPE html>
 <html>
 
@@ -35,17 +69,17 @@
                 <div class="col s4"></div>
                 <div class="col s4">
 
-                    <form class="col s12">
+                    <form class="col s12" action="" method="post">
                         <div class="row">
                             <div class="input-field col s12">
-                                <input id="username" type="text" class="validate">
+                                <input id="username" type="text" name="mobile" class="validate">
                                 <label for="username">Username</label>
                             </div>
                         </div>
 
                         <div class="row">
                             <div class="input-field col s12">
-                                <input id="password" type="password" class="validate">
+                                <input id="password" type="password" name="password" class="validate">
                                 <label for="password">Password</label>
                             </div>
                         </div>
