@@ -69,7 +69,7 @@ if(isset($_POST['login'])){
                 <div class="col s4"></div>
                 <div class="col s4">
 
-                    <form class="col s12" action="" method="post">
+                    <form class="col s12" action="index.php" method="post">
                         <div class="row">
                             <div class="input-field col s12">
                                 <input id="username" type="text" name="mobile" class="validate">
