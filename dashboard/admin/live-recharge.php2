@@ -1,0 +1,15 @@
+<?php
+session_start();
+
+include "include.php";
+include "session.php";
+
+
+
+
+
+include "html/includes/header.php";
+include "html/live_report.php";
+include "html/includes/footer.php";
+include "js/live_report.js";
+?>

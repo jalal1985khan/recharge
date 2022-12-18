@@ -1,0 +1,128 @@
+[22-May-2021 05:55:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[22-May-2021 05:55:06 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 107
+[22-May-2021 05:55:06 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 107
+[22-May-2021 05:55:06 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 107
+[22-May-2021 05:55:06 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined variable: rt_sc_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 205
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined variable: ds_sc_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 205
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined variable: rt_pn_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 225
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined variable: ds_pn_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 225
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined variable: rt_fl_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 245
+[22-May-2021 05:55:06 UTC] PHP Notice:  Undefined variable: ds_fl_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 245
+[22-May-2021 05:55:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/includes/function.php on line 2
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/retailer.php on line 169
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/retailer.php on line 169
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/retailer.php on line 169
+[22-May-2021 11:25:24 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[22-May-2021 05:55:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[22-May-2021 05:55:32 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[22-May-2021 05:55:32 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[22-May-2021 05:55:32 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[22-May-2021 05:55:32 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[22-May-2021 05:55:32 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[22-May-2021 05:55:32 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[22-May-2021 05:55:32 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/set-rt-package.php on line 126
+[22-May-2021 05:55:32 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/set-rt-package.php on line 126
+[22-May-2021 05:55:32 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/set-rt-package.php on line 126
+[22-May-2021 05:55:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[22-May-2021 05:55:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[22-May-2021 05:55:37 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[22-May-2021 05:55:37 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[22-May-2021 05:55:37 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[22-May-2021 05:55:37 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[22-May-2021 05:55:37 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[22-May-2021 05:55:37 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[22-May-2021 05:55:37 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/set-rt-package.php on line 126
+[22-May-2021 05:55:37 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/set-rt-package.php on line 126
+[22-May-2021 05:55:37 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/set-rt-package.php on line 126
+[22-May-2021 05:55:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[22-May-2021 05:59:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[22-May-2021 05:59:23 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[22-May-2021 05:59:23 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[22-May-2021 05:59:23 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[22-May-2021 05:59:23 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[22-May-2021 05:59:23 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[22-May-2021 05:59:23 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[22-May-2021 05:59:23 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/commissionpackage.php on line 114
+[22-May-2021 05:59:23 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/commissionpackage.php on line 114
+[22-May-2021 05:59:23 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/commissionpackage.php on line 114
+[22-May-2021 05:59:23 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[22-May-2021 05:59:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[22-May-2021 05:59:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[22-May-2021 05:59:28 UTC] PHP Notice:  Undefined index: name in /home/recharge/public_html/dashboard/masterdistributer/api-commission.php on line 208
+[25-May-2021 12:32:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[25-May-2021 12:32:17 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 107
+[25-May-2021 12:32:17 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 107
+[25-May-2021 12:32:17 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 107
+[25-May-2021 12:32:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined variable: rt_sc_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 205
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined variable: ds_sc_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 205
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined variable: rt_pn_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 225
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined variable: ds_pn_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 225
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined variable: rt_fl_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 245
+[25-May-2021 12:32:17 UTC] PHP Notice:  Undefined variable: ds_fl_am in /home/recharge/public_html/dashboard/masterdistributer/index.php on line 245
+[25-May-2021 12:33:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[25-May-2021 12:33:19 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[25-May-2021 12:33:19 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[25-May-2021 12:33:19 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[25-May-2021 12:33:19 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[25-May-2021 12:33:19 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[25-May-2021 12:33:19 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[25-May-2021 12:33:19 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/transaction-rpt.php on line 76
+[25-May-2021 12:33:19 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/transaction-rpt.php on line 76
+[25-May-2021 12:33:19 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/transaction-rpt.php on line 76
+[25-May-2021 12:33:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[25-May-2021 12:33:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[25-May-2021 12:33:29 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 77
+[25-May-2021 12:33:29 UTC] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 77
+[25-May-2021 12:33:29 UTC] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 77
+[25-May-2021 12:33:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined variable: rt_sc_am in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 176
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined variable: ds_sc_am in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 176
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined variable: rt_pn_am in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 196
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined variable: ds_pn_am in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 196
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined variable: rt_fl_am in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 216
+[25-May-2021 12:33:29 UTC] PHP Notice:  Undefined variable: ds_fl_am in /home/recharge/public_html/dashboard/masterdistributer/Recharge-report.php on line 216
+[25-May-2021 12:33:49 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/includes/function.php on line 2
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 4
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  Undefined index: SMSBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 77
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 85
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  Undefined index: RCBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 88
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  Undefined index: DMRBAL in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 93
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  Undefined index: IMAGE in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 99
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  Undefined index: NAME in /home/recharge/public_html/dashboard/masterdistributer/topheader.php on line 100
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/retailer.php on line 169
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Warning:  include(Livechat.php): failed to open stream: No such file or directory in /home/recharge/public_html/dashboard/masterdistributer/retailer.php on line 169
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Warning:  include(): Failed opening 'Livechat.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/recharge/public_html/dashboard/masterdistributer/retailer.php on line 169
+[25-May-2021 18:03:49 Asia/Kolkata] PHP Notice:  session_start(): A session had already been started - ignoring in /home/recharge/public_html/dashboard/masterdistributer/sidebarlist.php on line 3

@@ -1,0 +1,83 @@
+[16-May-2021 07:23:11 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[16-May-2021 12:27:58 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[16-May-2021 12:28:54 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[16-May-2021 17:49:05 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[17-May-2021 00:49:18 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[17-May-2021 15:27:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[17-May-2021 15:28:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[17-May-2021 18:11:30 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[18-May-2021 01:39:44 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[18-May-2021 05:38:00 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[19-May-2021 06:42:05 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[19-May-2021 08:21:05 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[19-May-2021 15:00:18 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/forget-password.php on line 119
+[19-May-2021 22:08:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[20-May-2021 06:03:17 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[20-May-2021 06:05:06 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[20-May-2021 10:08:30 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[20-May-2021 10:14:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[20-May-2021 20:23:17 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[21-May-2021 16:15:55 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[21-May-2021 16:15:55 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[21-May-2021 16:15:56 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[21-May-2021 16:16:07 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/forget-password.php on line 119
+[21-May-2021 21:30:27 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[22-May-2021 00:24:48 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/forget-password.php on line 119
+[22-May-2021 05:54:41 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[22-May-2021 05:54:44 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[22-May-2021 13:45:09 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[22-May-2021 13:45:21 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[22-May-2021 17:02:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[23-May-2021 18:12:43 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[23-May-2021 23:38:27 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[24-May-2021 08:12:08 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[24-May-2021 08:12:09 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[24-May-2021 08:12:14 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[24-May-2021 08:12:21 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/forget-password.php on line 119
+[24-May-2021 14:56:02 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[24-May-2021 16:21:11 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[24-May-2021 16:34:01 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[24-May-2021 17:01:19 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[24-May-2021 19:43:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[25-May-2021 15:58:41 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[25-May-2021 16:02:57 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/recharge/public_html/services.php on line 54
+[26-May-2021 02:13:41 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 02:27:33 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 03:44:25 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 03:51:03 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 04:25:06 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 04:25:22 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 04:25:47 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 05:11:00 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 13:09:40 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[26-May-2021 14:34:09 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/forget-password.php on line 119
+[27-May-2021 10:23:34 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[27-May-2021 11:27:54 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[27-May-2021 15:57:29 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[27-May-2021 15:57:38 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[27-May-2021 15:58:17 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[27-May-2021 15:59:18 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[27-May-2021 15:59:39 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/signup.php on line 133
+[27-May-2021 16:00:00 UTC] PHP Notice:  Undefined index: CHATID in /home/recharge/public_html/login.php on line 128
+[27-May-2021 16:30:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[27-May-2021 16:39:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[27-May-2021 17:25:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[27-May-2021 17:25:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 03:58:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:13:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:17:12 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:17:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:17:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:17:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:18:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:19:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:21:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:21:20 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:27:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:28:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:35:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:36:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:51:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 04:56:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
+[28-May-2021 05:03:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'recharge'@'localhost' (using password: YES) in /home/recharge/public_html/dashboard/includes/config.php on line 2
